@@ -1,0 +1,12 @@
+
+/* Class = "UIBarButtonItem"; title = "设置"; ObjectID = "CmQ-qG-pj7"; */
+"CmQ-qG-pj7.title" = "设置";
+
+/* Class = "UITableViewSection"; headerTitle = "通用"; ObjectID = "G75-4Q-ia0"; */
+"G75-4Q-ia0.headerTitle" = "通用";
+
+/* Class = "UINavigationItem"; title = "OmniRtc API Example"; ObjectID = "ddp-8A-hUF"; */
+"ddp-8A-hUF.title" = "OmniRtc API Example";
+
+/* Class = "UITableViewController"; title = "设置"; ObjectID = "mlI-CR-ozi"; */
+"mlI-CR-ozi.title" = "设置";
